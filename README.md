@@ -5,3 +5,6 @@ Coronavirus pandemic using Polynomial Regression - This project was done a few m
 
 
 
+Insurance Expenses Prediction - In this project, I used multiple linear regression and extra tree regressor to correctly predict the insurance expenditure based on some demographic and behavioral characteristics. 
+I tried to test this project with two different patients and the algorithms could predict the data appropriately.
+
